@@ -1,17 +1,8 @@
-# fluter_hackathon
+# This is the app named fit_connect
 
-A new Flutter project.
+## This is in development phase.
 
-## Getting Started
+The project main moto of the app is to connect doctors and patient. This is going to be a social media app but in a health Sector.
+The project will take some time to be fully funciotnal. But for now this is just an MVP.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # hackathon__
