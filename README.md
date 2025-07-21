@@ -1,8 +1,96 @@
-# This is the app named fit_connect
 
-## This is in development phase.
+# Flutter Hackathon App
 
-The main moto of the app is to connect doctors and patient. This is going to be a social media app but in a health Sector.
-The project will take some time to be fully funciotnal. But for now this is just an MVP.
+A cross-platform mobile app built with **Flutter** for a hackathon project.
 
-# hackathon__
+---
+
+## 🚀 Features
+
+- Beautiful UI built using Flutter
+- Cross-platform support: Android, iOS, Web
+- Written entirely in **Dart**
+- Modular and scalable project structure
+- Responsive design
+
+---
+
+## 🛠️ Installation
+
+### Prerequisites
+
+- Flutter SDK (Download from [flutter.dev](https://flutter.dev/docs/get-started/install))
+- Dart SDK (comes with Flutter)
+- Android Studio or VS Code
+- Git
+
+### Steps
+
+```bash
+# Clone the repository
+git clone https://github.com/ManjeshPradhan/Flutter-Hackathon.git
+
+# Go into the project directory
+cd Flutter-Hackathon
+
+# Get Flutter packages
+flutter pub get
+
+# Run the app
+flutter run
+```
+
+---
+
+## 📁 Folder Structure
+
+```
+lib/
+ ├── main.dart        # Entry point
+ ├── screens/         # UI Screens
+ ├── widgets/         # Reusable components
+ └── models/          # Data models
+```
+
+---
+
+## ✅ Commands
+
+Useful Flutter commands:
+
+```bash
+# Check for issues
+flutter doctor
+
+# Run on emulator or device
+flutter run
+
+# Build APK for Android
+flutter build apk
+
+# Clean build files
+flutter clean
+```
+
+---
+
+## 🧠 Learning Focus
+
+Currently learning and implementing:
+
+- 🛡️ Cyber Security basics
+- 🔐 Secure coding practices in mobile apps
+
+---
+
+## 👨‍💻 Author
+
+**Manjesh Pradhan**  
+📧 [manjeshpradhan777@gmail.com](mailto:manjeshpradhan777@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/manjesh-pradhan-a58794339)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
