@@ -83,13 +83,14 @@ Currently learning and implementing:
 
 ---
 
-## 👨‍💻 Author
 
-**Manjesh Pradhan**  
-📧 [manjeshpradhan777@gmail.com](mailto:manjeshpradhan777@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/manjesh-pradhan-a58794339)
+## 👥 Our Team
 
----
+- **Manjesh Pradhan**
+- **Nirmal Tamang**
+- **Prashant Shah**
+- **Sitala Adhikari**
+
 
 ## 📜 License
 
